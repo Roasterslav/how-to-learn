@@ -1,5 +1,4 @@
 .kaufman__triangle {
-  animation: rotation 20s linear 1s normal running infinite;
   position: absolute;
   width: 877px;
   height: 877px;
@@ -8,4 +7,5 @@
   background-size:contain;
   right: -210px;
   top: 0;
+  z-index: -1;
 }

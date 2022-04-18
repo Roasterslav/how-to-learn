@@ -1,5 +1,4 @@
 .header__square-pic {
-  animation: rotation 20s linear 1s normal running infinite;
   position: absolute;
   right: 0;
   top: 64px;
