@@ -6,19 +6,19 @@
  ### для лучшего усваивания учебного материала
 <br>
 
-![techniques](/images/readme/teq.png)
+![techniques](./images/readme/teq.png)
 
 <br>
 
 ## Некоторые реализованные технологии:
 ### Анимации
-![gif-square](/images/readme/square.gif)
+![gif-square](./images/readme/square.gif)
 
 <br>
 <br>
 
 ### Свойства псевдокласса :hover
-![gif-icon](/images/readme/icon.gif)
+![gif-icon](./images/readme/icon.gif)
 
 <br>
 <br>
